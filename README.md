@@ -35,6 +35,7 @@ Tips: Plotting related content wasn't included in 2021 course.
 ### Other Notes
 
 Basic Notes for Final Review as `.md` file.
+
 `Word` files are in `.zip` package.
 
 
